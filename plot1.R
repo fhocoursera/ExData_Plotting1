@@ -1,4 +1,8 @@
-setwd("/Users/christinaorndorff/Google Drive/Coursera/Data Science/Exploratory Data Analysis")
+
+## *** Set your working directory to the folder where you stored 
+## *** the data file (household_power_consumption.txt)
+
+# use setwd()
 
 ##### Read Data into R session - Repeated on each R script #####
 
